@@ -1,0 +1,20 @@
+# --- Archivos de sistema de Python (Basura) ---
+__pycache__/
+*.py[cod]
+
+# --- Entornos Virtuales (No subir nunca, pesan mucho) ---
+.venv
+venv/
+env/
+/bin
+
+# --- Datos Locales (IMPORTANTE) ---
+# Esto evita que subas por error tus Excel o CSV privados al repositorio público
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# --- Archivos de sistema operativo ---
+.DS_Store
+Thumbs.db
