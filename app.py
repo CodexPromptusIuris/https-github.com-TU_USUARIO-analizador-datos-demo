@@ -85,3 +85,4 @@ else:
     # Pantalla de bienvenida cuando no hay datos
     st.info("👈 Utiliza el panel lateral para subir un archivo CSV o Excel.")
     st.warning("Demo: Asegúrate de que tu archivo tenga encabezados en la primera fila.")
+    
